@@ -1,6 +1,6 @@
-# NPU-TOP Pro 
+# NPU-TOP for Ascend
 
-NPU-TOP Pro 是一个基于终端的用户界面 (TUI) 工具，用于实时监控 NPU (Neural Processing Unit) 的状态。它提供了类似于 `nvtop` 或 `htop` 的体验，专门针对华为 Ascend NPU 设备设计。
+NPU-TOP 是一个基于终端的用户界面 (TUI) 工具，用于实时监控 NPU (Neural Processing Unit) 的状态。它提供了类似于 `nvtop` 或 `htop` 的体验，专门针对华为 Ascend NPU 设备设计。
 
 ## 功能特性
 
