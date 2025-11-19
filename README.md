@@ -2,6 +2,9 @@
 
 NPU-TOP 是一个基于终端的用户界面 (TUI) 工具，用于实时监控 NPU (Neural Processing Unit) 的状态。它提供了类似于 `nvtop` 或 `htop` 的体验，专门针对华为 Ascend NPU 设备设计。
 
+![界面展示](https://github.com/user-attachments/assets/e7e3a7dd-b6e3-434a-b0b7-9f1aa59fa695)
+
+
 ## 功能特性
 
 * **实时监控**：显示 NPU 的利用率、显存使用、温度、功耗和时钟频率。
